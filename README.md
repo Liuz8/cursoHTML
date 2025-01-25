@@ -1,2 +1,2 @@
 # cursoHTML
- Curso HRML y CSS básico de Alura
+ Curso HTML y CSS básico de Alura
