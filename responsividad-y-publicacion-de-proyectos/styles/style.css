@@ -31,7 +31,7 @@ body{
 
 .header__menu__link{
     font-family: var(--fuente-montserrat);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     color: var(--color-terciario);
     text-decoration: none;
@@ -52,7 +52,7 @@ body{
 }
 
 .presentacion__contenido__titulo{
-    font-size: 36px;
+    font-size: 2rem;
     font-family: var(--fuente-Krona)
 }
 
@@ -61,13 +61,13 @@ body{
 }
 
 .presentacion__contenido__texto{
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--fuente-montserrat);
 }
 
 .presentacion__contenido__enlaces__subtitulo{
     font-family: var(--fuente-Krona);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
 
@@ -85,7 +85,7 @@ body{
     text-align: center;
     border-radius: 8px;
     font-family: var(--fuente-montserrat);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     text-decoration: none;
     color: var(--color-secundario);
@@ -105,6 +105,6 @@ body{
     color: var(--color-primario);
     text-align: center;
     font-family: var(--fuente-montserrat);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
